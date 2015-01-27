@@ -1,0 +1,4 @@
+language: objective-c
+install:
+- cd example
+script: xctool -project ScrollHorizontal-Segue.xcodeproj -scheme 'ScrollHorizontal-Segue' -configuration Release -sdk iphonesimulator7.0 -arch i386 build
