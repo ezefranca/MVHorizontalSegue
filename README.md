@@ -14,5 +14,5 @@ Simple custom segue class to add Horizontal Scroll transition effect.
 3. Add the Custom Class to your Segue.
 
 
-![imagem](https://raw.githubusercontent.com/minha-vida/MVHorizontalSegue/master/example/read/use.png)
+![imagem](https://raw.githubusercontent.com/ezefranca/MVHorizontalSegue/master/example/read/use.png)
 
